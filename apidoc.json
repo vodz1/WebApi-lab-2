@@ -1,0 +1,8 @@
+{
+    "name": "Users API",
+    "version": "1.0.0",
+    "description": "Users API description",
+    "title": "Users API",
+    "url": "http://localhost/rest.php",
+    "sampleUrl": true
+}
